@@ -3,14 +3,14 @@
 import java.util.LinkedList;
 import java.util.List;
 
-class TreeNode {
-    public int val;
-     public TreeNode left, right;
-    public TreeNode(int val) {
-        this.val = val;
-        this.left = this.right = null;
-     }
-}
+//class TreeNode {
+//    public int val;
+//     public TreeNode left, right;
+//    public TreeNode(int val) {
+//        this.val = val;
+//        this.left = this.right = null;
+//     }
+//}
 
 
 
